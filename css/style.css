@@ -1,7 +1,6 @@
 body {
 	background-image:url('../img/bright_squares.png');
 	background-repeat:repeat;
-	/*padding: 80px; this gets the content out from under the navbar if fixed*/
 }
 
 /*=========================
@@ -82,9 +81,6 @@ ul#list li {
 	position: relative;
 	
 }
-/*#secondFeature {
-	padding-top: 10px;
-}*/
 
 #phone {
 	margin-left: 0px;
